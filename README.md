@@ -1,7 +1,7 @@
 # HugerCaptMain
 
-#[Frontend Demo](https://github.com/wistonenerilus98/HungercaptFrontend)
-#[Backend Demo](https://github.com/wistonenerilus98/HungerCaptBackend)
+#To see the [Frontend Demo](https://SDFreshZest-Frontend.queend93.repl.co)
+#To see the [Backend Demo](https://SDFreshZest-Backend.queend93.repl.co)
 
 
 # Getting Started with Create React App
